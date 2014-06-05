@@ -12,3 +12,4 @@ FAT HACK GENIUS app
 - Devise
 - CanCan
 
+https://www.codeship.io/projects/8b742a20-ce95-0131-fe80-166c625f7037/status
